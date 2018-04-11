@@ -21,6 +21,9 @@
 .flex-items-center {
     align-items: center;
 }
+.flex-wrap {
+    flex-wrap: wrap;
+}
 
 /* CONTAINER */
 .no-padding-margin {
